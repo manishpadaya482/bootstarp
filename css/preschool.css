@@ -1,0 +1,24 @@
+.color
+{
+    background-color: #1c4e86;
+}
+.about
+{
+    background-image: url(../images/preabout.jpg);
+    background-color: rgb(0, 0, 0);
+    background-size: cover;
+    min-height 500px;
+}
+.morningshift,.afternoonshift
+{
+    background-color: #1c4e86;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+}
+.shcooltiming
+{
+    background-color: #1c4e86;
+    padding: 10px;
+    color: #fff;
+}

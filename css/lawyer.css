@@ -1,0 +1,10 @@
+.black 
+{
+    background-image: url('../images/black.jpg');
+    background-color: rgb(0, 0, 0);
+    background-size: cover;
+}
+.color
+{
+    background-color: #d09554;
+}
